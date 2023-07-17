@@ -1,4 +1,4 @@
-![git](Git.ipg)
+![git](https://github.com/Inga-1985/GitHub/blob/4aadaf2438246a22c7479ed51b74e77e18cae48e/Git.jpg)
 # Работа с Git
 ## 1. Проверка наличия установленного Git
 В терминале выполнить команду `git version`. 
